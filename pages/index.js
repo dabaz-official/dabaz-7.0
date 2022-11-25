@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <Head>
         <title>DabAZ</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/dabaz.svg" />
       </Head>
 
       
