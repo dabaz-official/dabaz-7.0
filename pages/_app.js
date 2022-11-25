@@ -1,3 +1,4 @@
+import '../styles/font.css'
 import '../styles/tailwind.css'
 
 function MyApp({ Component, pageProps }) {
